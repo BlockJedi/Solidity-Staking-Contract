@@ -1,0 +1,32 @@
+{
+  "name": "solidity-staking-contract",
+  "version": "1.0.0",
+  "description": "solidity staking contract for EVM chains",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hussammustafa/Solidity-Staking-Contract.git"
+  },
+  "keywords": [
+    "solidity",
+    "staking",
+    "evm"
+  ],
+  "author": "hussammustafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hussammustafa/Solidity-Staking-Contract/issues"
+  },
+  "homepage": "https://github.com/hussammustafa/Solidity-Staking-Contract#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "truffle-plugin-verify": "^0.6.6"
+  }
+}
